@@ -1,7 +1,7 @@
 ## 欢迎使用 “师说CMS”
 
-> 使用Java语言开发的CMS（使用Apache2协议，可免费用于商业用途）<br>
-QQ群： <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=8330a17a4fdc8ee8dc65b546c27218aac74ba2ea6c34cf5fb75fffe31dc81be8"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="师说CMS技术交流" title="师说CMS技术交流"></a>
+使用Java语言开发的CMS（使用Apache2协议，可免费用于商业用途）<br>
+
 
 ## 部署环境前提
 * eclipse
@@ -54,14 +54,6 @@ QQ群： <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=8330a17a4
 * 使用标签，方便前端模板开发
 * 使用注解，方便二次开发
 
-
-## 捐赠
-如果您喜欢“师说CMS”，认为“师说CMS”确实给您带来方便和帮助，那么欢迎您捐赠。这笔钱会用在“师说CMS”的服务器费用上。非常感谢，您的捐赠，是我们前进的动力。我们将定期公开捐赠和支出。<br>
-<a href='http://me.alipay.com/herbert'> <img src='https://img.alipay.com/sys/personalprod/style/mc/btn-index.png' /> </a>
-
-## 演示地址
-[http://shishuocms.aliapp.com/](http://shishuocms.aliapp.com/)
-
 ## 技术关键词
 * jQuery
 * Bootstrap
@@ -85,7 +77,7 @@ QQ群： <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=8330a17a4
 
 ## 开发
 
-[长沙市师说网络科技有限公司][1]
+
 
 ## 版权
 
@@ -93,13 +85,12 @@ QQ群： <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=8330a17a4
     All rights reserved.
     长沙市师说网络科技有限公司
     版权所有
-    http://www.shishuo.com
+
     
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
-    
-    http://www.apache.org/licenses/LICENSE-2.0
+
     
     Unless required by applicable law or agreed to in writing, software
     distributed under the License is distributed on an "AS IS" BASIS,
@@ -108,6 +99,6 @@ QQ群： <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=8330a17a4
     limitations under the License.
 
 
-  [1]: http://www.shishuo.com
+
 
 本项目为测试GIT用的项目，旨在用于学习。如有侵权请联系我，会第一时间删除！
