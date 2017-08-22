@@ -1,7 +1,7 @@
 ## 欢迎使用 “师说CMS”
 
 > 使用Java语言开发的CMS（使用Apache2协议，可免费用于商业用途）<br>
-QQ群：7343505 <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=8330a17a4fdc8ee8dc65b546c27218aac74ba2ea6c34cf5fb75fffe31dc81be8"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="师说CMS技术交流" title="师说CMS技术交流"></a>
+QQ群： <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=8330a17a4fdc8ee8dc65b546c27218aac74ba2ea6c34cf5fb75fffe31dc81be8"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="师说CMS技术交流" title="师说CMS技术交流"></a>
 
 ## 部署环境前提
 * eclipse
@@ -18,7 +18,7 @@ QQ群：7343505 <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=83
 4. 然后在URI输入：https://git.oschina.net/shishuo/CMS.git
 5. 等待eclipse自动下载jar包
 6. 创建/sql/install.sql数据库
-7. 部署中可能还会碰到很多问题，请加入QQ群：7343505
+7. 部署中可能还会碰到很多问题，请加入QQ群：
 
 ## 部署到线上（生产）
 1. 复制 /src/main/resources/shishuocms.properties 到 /
@@ -110,3 +110,4 @@ QQ群：7343505 <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=83
 
   [1]: http://www.shishuo.com
 
+本项目为测试GIT用的项目，旨在用于学习。如有侵权请联系我，会第一时间删除！
