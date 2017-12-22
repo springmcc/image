@@ -13,10 +13,6 @@ import org.springframework.stereotype.Repository;
 import com.shishuo.cms.entity.Admin;
 import com.shishuo.cms.entity.vo.AdminVo;
 
-
-
-
-
 /**
  * 管理员
  * 
